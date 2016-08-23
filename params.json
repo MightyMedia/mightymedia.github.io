@@ -1,1 +1,7 @@
-{"name":"Mighty Media","tagline":"Mighty Media develops websites and applications with CodeIgniter, ExpressionEngine and Wordpress.","body":"### Mighty Media\r\nMighty Media is a small web development company from the south of the Netherlands founded and owned by [Bas van den Wijngaard](https://github.com/basvandenwijngaard).\r\n\r\n### Open source projects by Mighty Media\r\n* [Mighty Form Styler for jQuery](http://mightymedia.github.io/Mighty-Form-Styler/)\r\n* [Mighty Forms for CodeIgniter](https://github.com/MightyMedia/Mighty-form)","google":"UA-5503273-16","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Mighty Media",
+  "tagline": "Mighty Media develops plugins and stuff",
+  "body": "### Mighty Media\r\nMighty Media is a small web development company from the south of the Netherlands founded and owned by [Bas van den Wijngaard](https://github.com/basvandenwijngaard).\r\n\r\n### Open source projects by Mighty Media\r\n* [Simple Social Share for jQuery](https://github.com/MightyMedia/Simple-Social-Share/)\r\n* [Mighty Form Styler for jQuery](http://mightymedia.github.io/Mighty-Form-Styler/)",
+  "google": "UA-5503273-16",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
