@@ -1,0 +1,8 @@
+title: Mighty Media
+description: Mighty Media develops plugins and stuff
+google_analytics: UA-5503273-16
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
